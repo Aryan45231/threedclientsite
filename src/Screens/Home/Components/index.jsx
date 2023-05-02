@@ -1,7 +1,5 @@
-import styled from "styled-components"
 import "./index.css"
 import { Link } from "react-router-dom"
-import * as screenshotone from 'screenshotone-api-sdk';
 import { AppUrl } from "../../../Data/Resource/Apiurl"
 import { useEffect, useState } from "react"
 const ModelCard = ({
